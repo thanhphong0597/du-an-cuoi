@@ -1,0 +1,15 @@
+export const images = [
+    "/bg-login.png",
+    "/bg-login1.png",
+    "/bg-login2.png",
+    "/bg-login7.png",
+    "/bg-login5.png",
+    "/bg-login4.png",
+    "/bg-login3.png",
+    "/bg-login6.png",
+    "/bg-login8.png",
+    "/bg-login9.png",
+    "/bg-login10.png",
+    "/bg-login11.png",
+    "/bg-login12.png",
+];
